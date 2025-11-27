@@ -32,10 +32,10 @@ python3 gm.py
 ---
 
 2️⃣ Install required packages
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 3️⃣ Run the script
-python3 gm.py
+- python3 gm.py
 
 ---
 # 👤 Author
