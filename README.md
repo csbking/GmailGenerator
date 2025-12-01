@@ -27,7 +27,7 @@ WELCOME TO GMAIL GENERATOR...!!
 ```
 git clone https://github.com/csbking/GmailGenerator.git
 cd GmailGenerator
-python3 gm.py
+python3 gmail.py
 ```
 ---
 
